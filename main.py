@@ -3,7 +3,7 @@ import subprocess
 from google import genai
 
 
-API_KEY = "AQ.Ab8RN6Jdfwut7Fo01SGAiYAaEkXt8qhAMRE40YQosU_wrGYl2w"
+API_KEY = ""
 MODEL = "gemma-4-26b-a4b-it"
 
 
